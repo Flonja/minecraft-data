@@ -2691,7 +2691,7 @@
                                             },
                                             {
                                               "name": "item_stack_id",
-                                              "type": "varint"
+                                              "type": "zigzag32"
                                             },
                                             {
                                               "name": "custom_name",
